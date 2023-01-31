@@ -6,7 +6,7 @@ Image Segmentation using UNET.
 
 A brief about the notebook:
 
-1- Importing & Visualizing Data
+1- Importing & Visualizing Data (CARLA)
 
 2- Data PreProcessing
 
