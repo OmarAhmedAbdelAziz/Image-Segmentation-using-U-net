@@ -6,20 +6,18 @@ Image Segmentation using UNET.
 
 A brief about the notebook:
 
-1- Collecting Data by Camera
+1- Importing & Visualizing Data
 
-2- Reading Images [ From Folders ]
+2- Data PreProcessing
 
-3- Data Augmentaion for All Classes
+3- U-net (Encoder & Decoder)
 
-4- Preparing Training Images
+6- Building The Model
 
-5- Preparing Test Images
+7- Training the Model
 
-6-Building The Model (Convolutional Neural Network)
+8- Model Evaluation
 
-7-Model Evaulation 
-
-8- Saving the Model
+9- Showing Predicitons
 
 ![](image/Screenshot.jpg)
