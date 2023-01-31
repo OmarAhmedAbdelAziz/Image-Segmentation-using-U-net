@@ -1,8 +1,8 @@
-# Image-Segmentation-using-U-net
+# Image-Segmentation-using-Unet
 
 New Computer Vison project.
 
-Image Segmentation using UNET.
+Image Segmentation using U-NET.
 
 A brief about the notebook:
 
